@@ -11,3 +11,5 @@ SIGN & raw_data过期会向接收邮箱发送邮件
 以及yunjing_data.csv中的值（使用空格分隔）
 
 ## 效果预览
+![image](https://github.com/user-attachments/assets/be1a495c-ae4c-4c19-be21-b73333017327)
+![image](https://github.com/user-attachments/assets/810661e9-fe68-48c4-8149-b1cce9d0ad1c)
