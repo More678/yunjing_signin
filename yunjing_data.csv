@@ -1,0 +1,3 @@
+recv_email SIGN raw_data
+example1@qq.com 3fedc0b952d1f9b444ff9c40846a67f23fed9b44 {"stamp":1741234567890,"token":"s:3fedc0b952d1f9b444ff9c40846a67f2","rs":"3fedc0b952d1f9b444ff9c40846a67f2"}
+example2@qq.com 3fedc0b952d1f9b444ff9c40846a67f23fed9b44 {"stamp":1741234567890,"token":"s:3fedc0b952d1f9b444ff9c40846a67f2","rs":"3fedc0b952d1f9b444ff9c40846a67f2"}
