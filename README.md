@@ -1,6 +1,6 @@
 # 春秋云镜打卡
-需要自己填入接收者邮箱,SIGN,raw_data\
-SIGN & raw_data过期会向接收邮箱发送邮件\
+需要自行添加信息并设置发送接受邮箱，详见下文\
+\
 yunjing.py\
 不会获取用户信息并在邮件中添加用户信息\
 yunjing_get_user.py\
