@@ -6,6 +6,7 @@ import time
 import requests
 from email.mime.text import MIMEText
 import pandas as pd
+from datetime import datetime
 
 
 def send_email(recv_email,info_title, website_url):
@@ -73,7 +74,8 @@ def website_render(recv_email, yunjing_data):
     # {"code":100,"message":"参数不合法"}
     # {"code":0,"message":"打卡成功","reward_grit":0}
     # {"code":114,"message":"token已经失效"}
-    open("yunjing.log.txt", "a").write(f"{yunjing_data['SIGN']} {result.text}" + "\n")
+    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    open("yunjing.log.txt", "a").write(f"[{current_time}] {yunjing_data['SIGN']} {result.text}\n")
 
     if "token已经失效" not in user_info.text:
         info=pd.DataFrame({
