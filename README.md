@@ -24,3 +24,4 @@ recv_email SIGN raw_data
 ## 效果预览
 ![image](https://github.com/user-attachments/assets/be1a495c-ae4c-4c19-be21-b73333017327)
 ![image](https://github.com/user-attachments/assets/810661e9-fe68-48c4-8149-b1cce9d0ad1c)
+![image](https://github.com/user-attachments/assets/13e21ccd-6ef3-4cac-aa83-ed9b99709383)
