@@ -7,6 +7,10 @@ yunjing.py\
 yunjing_get_user.py\
 会获取用户信息并在邮件中添加，同时会在本地创建csv文件保存此信息
 
+## 2025.3.8更新
+yunjing.py写入log时增加时间和SIGN\
+yunjing_get_user.py写入log时增加时间
+
 ## SIGN & raw_data获取方式
 ![image](https://github.com/user-attachments/assets/55c0ec8a-2bd6-4555-93a9-022d727e50e3)
 ![image](https://github.com/user-attachments/assets/d22b5315-8a32-4b0c-811c-8203c44caa5c)
