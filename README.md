@@ -8,7 +8,7 @@ yunjing_get_user.py\
 会获取用户信息并在邮件中添加，同时会在本地创建csv文件保存此信息
 
 ## 2025.3.10更新
-由于新版本pandas库无append函数，增加requirements（pandas==1.3.5）
+由于新版本pandas库无append函数，增加requirements
 
 ## 2025.3.8更新
 yunjing.py写入log时增加时间和SIGN\
